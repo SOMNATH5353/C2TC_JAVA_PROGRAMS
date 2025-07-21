@@ -13,6 +13,7 @@ public class Addition {
 		b=s.nextInt();
 		c=a+b;
 		System.out.println("The addition of a="+a+" and b="+b+" is ="+c);
+		s.close();
 
 	}
 
