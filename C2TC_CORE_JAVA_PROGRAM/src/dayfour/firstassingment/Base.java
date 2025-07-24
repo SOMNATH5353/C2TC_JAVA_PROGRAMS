@@ -9,7 +9,7 @@ public class Base {
 		private int prinormal=30;
 		protected int pronormal=40;
 		// Using Default,Public,Private methods
-		void defaultone()
+		public void defaultone()
 		{
 			System.out.println("This is an Default Method");
 			System.out.println("Default variable:"+normal);
