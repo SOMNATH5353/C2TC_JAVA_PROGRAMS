@@ -1,4 +1,4 @@
-package daythirteen;
+package dayfourteen;
 
 public class ThreadsMethodDemo {
 	public static void main(String[] args) {
